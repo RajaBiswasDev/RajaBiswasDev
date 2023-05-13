@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @RajaBiswasDev
-- 👀 I’m interested in cloud technologies and developing micro services...
+- 👋 Hi, This is Raja
+- 👀 I have around 12 years of experience in application development
+- I’m interested developing applications that are simple and cool
 - 📫 How to reach me https://www.linkedin.com/in/raja-biswas-4587a6189/
 
 <!---
