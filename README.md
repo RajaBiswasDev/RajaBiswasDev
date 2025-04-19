@@ -1,6 +1,6 @@
 - 👋 Hi, This is Raja
 - 👀 I have around 14 years of experience in application development
-- I’m interested designing, archiecting & developing distributed applications with cutting edge tech, tools and practices
+- I’m interested in designing, archiecting & developing distributed applications with cutting edge tech, tools and practices
 - 📫 How to reach me https://www.linkedin.com/in/raja-biswas-4587a6189/
 
 <!---
